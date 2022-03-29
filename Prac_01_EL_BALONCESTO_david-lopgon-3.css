@@ -1,0 +1,419 @@
+body
+{
+    font-family: 'Comic Sans MS';
+    background-color: black;
+    color: white;
+    text-align: justify;
+    margin: 0px;
+}
+
+#menu
+{
+    width: 100%;
+    background-color: #D86C3B;
+    border: 1px solid darkgrey;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+#opcion_1
+{
+    text-align: left;
+}
+
+#opcion_2
+{
+    text-align: center;
+}
+
+#opcion_3
+{
+    
+    text-align: right;
+}
+
+#menu td
+{
+    width: 33%;
+}
+
+#menu a
+{
+    text-decoration: none;
+}
+
+#menu a:link
+{
+    color: white;
+}
+
+#menu a:visited
+{
+    color: lightgrey;
+}
+
+#menu a:hover, a:focus
+{
+    color: #FFF000;
+}
+
+#menu a:active
+{
+    color: #381500;
+}
+
+#menu b
+{
+    vertical-align: middle;
+}
+
+#menu img
+{
+    vertical-align: middle;
+}
+
+#menu .flecha_menu
+{
+    width: 19px;
+}
+
+#hueco_1
+{
+    width: 100%;
+    color: black;
+}
+
+#hueco_1 #opcion_1
+{
+    text-align: left;
+}
+
+#hueco_1 #opcion_2
+{
+    text-align: center;
+}
+
+#hueco_1 #opcion_3
+{
+    
+    text-align: right;
+}
+
+#hueco_1 td
+{
+    width: 33%;
+}
+
+#hueco_1 b
+{
+    vertical-align: middle;
+}
+
+#hueco_1 img
+{
+    vertical-align: middle;
+}
+
+#hueco_1 .flecha_menu
+{
+    width: 19px;
+}
+
+.contenedor_principal
+{
+    margin: 10px 25px;
+}
+
+h1
+{
+    text-align: center;
+    font-family: 'Cooper Black';
+    font-size: 66px;
+    color: #D86C3B;
+}
+
+h1 img
+{
+    clear: right;
+    float: right;
+}
+
+hr
+{
+    border-color: brown;
+    background-color: brown;
+}
+
+#informacion
+{
+    margin: 12px 0px 13px 25px;
+    clear: right;
+    float: right;
+}
+
+#informacion table
+{
+    width: 291px;
+    line-height: 1.4em;
+    text-align: left;
+    padding: 3px;
+    border: 1px solid darkgrey;
+    background-color: rgb(99, 99, 99);
+}
+
+#informacion th
+{
+    border: 0px;
+    vertical-align: top;
+}
+
+#informacion th.especial
+{
+    text-align: center;
+    background-color: #D86C3B;
+}
+
+#informacion td
+{
+    border: 0px;
+    vertical-align: top;
+}
+
+#informacion td.especial
+{
+    text-align: center;
+    font-size: small;
+}
+
+#informacion #img1
+{
+    width: 275px;
+    height: 382px;
+}
+
+#informacion #img2
+{
+    width: 20px;
+    height: 11px;
+}
+
+#informacion #img3
+{
+    width: 150px;
+    height: 218px;
+    background-color: white;
+}
+
+span
+{
+    color: #D86C3B;
+}
+
+.negrita
+{
+    font-weight: bold;
+}
+
+.no_enlace, .no_enlace:hover
+{
+    color: #D86C3B;
+}
+
+#contenedor_indice
+{
+    margin: 10px 25px;
+}
+
+#indice
+{
+    border: 1px solid darkgrey;
+    background-color: rgb(99, 99, 99);
+    width: 545px;
+    text-align: justify;
+    padding: 1px 9px;
+    margin: 0 auto;
+}
+
+#indice h3
+{
+    text-align: center;
+    color: #D86C3B;
+}
+
+#indice #nivel1
+{
+    border: 1px solid darkgrey;
+    color: black;
+    background-color: lightgrey;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:link
+{
+    color: brown;
+}
+
+a:visited
+{
+    color: #CD5C01;
+}
+
+a:hover, a:focus
+{
+    color: #FA0403;
+}
+
+a:active
+{
+    color: #381500;
+}
+
+.contenedor_imagen
+{
+    margin: 12px 0px 13px 25px;
+    clear: right;
+    float: right;
+    border: 1px solid darkgrey;
+    background-color: rgb(99, 99, 99);
+}
+
+.contenedor_imagen div
+{
+    font-size: small;
+    padding: 3px;
+}
+
+.pie_de_foto_222
+{
+    width: 222px;
+}
+
+.pie_de_foto_302
+{
+    width: 302px;
+}
+
+.pie_de_foto_172
+{
+    width: 172px;
+}
+
+.pie_de_foto_202
+{
+    width: 202px;
+}
+
+.pie_de_foto_242
+{
+    width: 242px;
+}
+
+.pie_de_foto_182
+{
+    width: 182px;
+}
+
+.pie_de_foto_152
+{
+    width: 152px;
+}
+
+.pie_de_foto_177
+{
+    width: 177px;
+}
+
+.pie_de_foto_192
+{
+    width: 192px;
+}
+
+.pie_de_foto_642
+{
+    width: 642px;
+}
+
+.contenedor_imagen img, iframe
+{
+    border: 1px solid darkgrey;
+}
+
+.contenedor_imagen #fondo_blanco
+{
+    background-color: white;
+}
+
+#web_incrustada_fiba
+{
+    width: 640px;
+    height: 360px;
+}
+
+#infracciones dt, #faltas dt
+{
+    color: #D86C3B;
+}
+
+.icono_balon_enlaces
+{
+    width: 13px;
+}
+
+.logo_wikipedia_enlaces
+{
+    height: 44px;
+    vertical-align: middle;
+}
+
+.flecha_enlaces
+{
+    width: 19px;
+    vertical-align: middle;
+}
+
+.logo_fiba_enlaces
+{
+    width: 44px;
+    vertical-align: middle;
+}
+
+#ir_indice
+{
+    left: 25px;
+    bottom: 0;
+    position: fixed;
+}
+
+.ir
+{
+    font-size: 10px;
+    bottom: 0;
+}
+
+.ir img
+{
+    width: 44px;
+}
+
+#ir_comienzo
+{
+    left: 50%;
+    transform: translateX(-50%);
+    position: fixed;
+}
+
+#ir_comienzo img
+{
+    display: inline-block;
+}
+
+#hueco_2
+{
+    text-align: center;
+    color: black;
+}
