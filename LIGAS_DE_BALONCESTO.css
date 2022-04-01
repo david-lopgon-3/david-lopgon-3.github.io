@@ -1,0 +1,362 @@
+body
+{
+    font-family: 'Comic Sans MS';
+    background-color: black;
+    color: white;
+    text-align: justify;
+    margin: 0px;
+}
+
+#menu
+{
+    width: 100%;
+    background-color: #D86C3B;
+    border: 1px solid darkgrey;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+#opcion_1
+{
+    text-align: center;
+}
+
+#menu a
+{
+    text-decoration: none;
+}
+
+#menu a:link
+{
+    color: white;
+}
+
+#menu a:visited
+{
+    color: lightgrey;
+}
+
+#menu a:hover, a:focus
+{
+    color: #FFF000;
+}
+
+#menu a:active
+{
+    color: #381500;
+}
+
+#menu img
+{
+    vertical-align: middle;
+}
+
+#menu .flecha_menu
+{
+    width: 19px;
+}
+
+#menu b
+{
+    vertical-align: middle;
+}
+
+.icono_balon_enlaces
+{
+    width: 13px;
+}
+
+#hueco_1
+{
+    width: 100%;
+    color: black;
+}
+
+#hueco_1 #opcion_1
+{
+    text-align: center;
+}
+
+#hueco_1 img
+{
+    vertical-align: middle;
+}
+
+#hueco_1 .flecha_menu
+{
+    width: 19px;
+}
+
+#hueco_1 b
+{
+    vertical-align: middle;
+}
+
+.contenedor_principal
+{
+    margin: 10px 25px;
+}
+
+h1
+{
+    text-align: center;
+    font-family: 'Cooper Black';
+    font-size: 66px;
+    color: #D86C3B;
+}
+
+h1 img
+{
+    clear: right;
+    float: right;
+}
+
+hr
+{
+    border-color: brown;
+    background-color: brown;
+}
+
+span
+{
+    color: #D86C3B;
+}
+
+.negrita
+{
+    font-weight: bold;
+}
+
+.no_enlace, .no_enlace:hover
+{
+    color: #D86C3B;
+}
+
+#contenedor_indice
+{
+    margin: 10px 25px;
+}
+
+#indice
+{
+    border: 1px solid darkgrey;
+    background-color: rgb(99, 99, 99);
+    width: 545px;
+    text-align: justify;
+    padding: 1px 9px;
+    margin: 0 auto;
+}
+
+#indice h3
+{
+    text-align: center;
+    color: #D86C3B;
+}
+
+#indice #nivel1
+{
+    border: 1px solid darkgrey;
+    color: black;
+    background-color: lightgrey;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:link
+{
+    color: brown;
+}
+
+a:visited
+{
+    color: #CD5C01;
+}
+
+a:hover, a:focus
+{
+    color: #FA0403;
+}
+
+a:active
+{
+    color: #381500;
+}
+
+.contenedor_imagen
+{
+    margin: 12px 0px 13px 25px;
+    clear: right;
+    float: right;
+    border: 1px solid darkgrey;
+    background-color: rgb(99, 99, 99);
+}
+
+.contenedor_imagen div
+{
+    font-size: small;
+    padding: 3px;
+}
+
+.pie_de_foto_222
+{
+    width: 222px;
+}
+
+.pie_de_foto_222 img
+{
+    width: 220px;
+}
+
+.pie_de_foto_120
+{
+    width: 120px;
+}
+
+.pie_de_foto_120 img
+{
+    width: 118px;
+}
+
+.pie_de_foto_268
+{
+    width: 268px;
+}
+
+.pie_de_foto_268 img
+{
+    width: 266px;
+}
+
+.pie_de_foto_105
+{
+    width: 105px;
+}
+
+.pie_de_foto_105 img
+{
+    width: 103px;
+}
+
+.pie_de_foto_133
+{
+    width: 133px;
+}
+
+.pie_de_foto_133 img
+{
+    width: 131px;
+}
+
+.pie_de_foto_131
+{
+    width: 131px;
+}
+
+.pie_de_foto_131 img
+{
+    width: 129px;
+}
+
+.pie_de_foto_153
+{
+    width: 153px;
+}
+
+.pie_de_foto_153 img
+{
+    width: 151px;
+}
+
+.pie_de_foto_151
+{
+    width: 151px;
+}
+
+.pie_de_foto_151 img
+{
+    width: 149px;
+}
+
+.pie_de_foto_104
+{
+    width: 104px;
+}
+
+.pie_de_foto_104 img
+{
+    width: 102px;
+}
+
+.contenedor_imagen img, iframe
+{
+    border: 1px solid darkgrey;
+}
+/*
+#web_incrustada_
+{
+    width: 640px;
+    height: 360px;
+}
+*/
+.icono_balon_enlaces
+{
+    width: 13px;
+}
+/*
+.logo_wikipedia_enlaces
+{
+    height: 44px;
+    vertical-align: middle;
+}
+
+.flecha_enlaces
+{
+    width: 19px;
+    vertical-align: middle;
+}
+
+.logo_fiba_enlaces
+{
+    width: 44px;
+    vertical-align: middle;
+}
+*/
+#ir_indice
+{
+    left: 25px;
+    bottom: 0;
+    position: fixed;
+}
+
+.ir
+{
+    font-size: 10px;
+    bottom: 0;
+}
+
+.ir img
+{
+    width: 44px;
+}
+
+#ir_comienzo
+{
+    left: 50%;
+    transform: translateX(-50%);
+    position: fixed;
+}
+
+#ir_comienzo img
+{
+    display: inline-block;
+}
+
+#hueco_2
+{
+    text-align: center;
+    color: black;
+}
